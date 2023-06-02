@@ -1,3 +1,4 @@
 <?php
-login screen
-echo "nhanh1"
+echo "login screen<br>";
+echo "Nhanh 2";
+?>
